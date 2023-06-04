@@ -9,6 +9,14 @@
     width: 100%;
     height: 100%;
 }
+.my-41 img{
+    width: 100%;
+    height: 100%;
+}
+.my-412 img{
+    width: 100%;
+    height: 100%;
+}
 .card-bodyf{
     display: flex;
     align-items: center;
@@ -19,4 +27,41 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: none;
 }
+.s1-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+}
+.my-5{
+    position: relative;
+    height: 600px;
+    margin-top: 0 !important;
+}
+.card-s1{
+    width: 100%;
+    height: 100%;
+}
+.card-s1 img{
+    width: 100%;
+    height: 100%;
+}
+.my-41 {
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem !important;
+  }
+  .my-412 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  .card-s3{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
